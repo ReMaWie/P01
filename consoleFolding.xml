@@ -3,6 +3,7 @@
     <option name="addedPositive">
       <list>
         <option value="compile" />
+        <option value="implementation" />
       </list>
     </option>
   </component>
