@@ -1,0 +1,11 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="d79dfbbf-e66e-4198-94d2-614d563e6eca" name="ReMaWie">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="ReMaWie" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
